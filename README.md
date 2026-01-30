@@ -13,3 +13,16 @@ Exploratory data analysis of an attrition survey conducted. Built a model to cal
 Exploratory Data Analysis :
 Exploratory Data Analysis is an initial process of analysis, in which we can summarize characteristics of data such as pattern, trends, outliers, and hypothesis testing using descriptive statistics and visualization.
 
+Tools & Technologies Used
+
+Python
+
+Pandas – data manipulation and preprocessing
+
+NumPy – numerical computations
+
+Matplotlib & Seaborn – data visualization
+
+Scikit-learn – machine learning and model evaluation
+
+Jupyter Notebook – analysis and experimentation
